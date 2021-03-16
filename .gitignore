@@ -1,5 +1,7 @@
 
 notimportant.txt
 
+.DS_Store
 
+**/logs
 
